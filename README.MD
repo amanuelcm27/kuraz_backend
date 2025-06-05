@@ -22,10 +22,10 @@ A simple backend-only Task Manager built with Django and Django REST Framework.
 ## 🧰 Setup Instructions
 
 1. **Clone the project**
-    git clone 
-    pip install -r requirements.txt
-    python manage.py migrate
-    python manage.py runserver
+2. git clone 
+3. pip install -r requirements.txt
+4. python manage.py migrate
+5. python manage.py runserver
 # Example POST Request
 POST /api/tasks
 Content-Type: application/json
