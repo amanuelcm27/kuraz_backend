@@ -21,8 +21,8 @@ A simple backend-only Task Manager built with Django and Django REST Framework.
 
 ## 🧰 Setup Instructions
 
-1. **Clone the project**
-2. git clone 
+1. clone the project 
+git clone https://github.com/amanuelcm27/kuraz_backend.git
 3. pip install -r requirements.txt
 4. python manage.py migrate
 5. python manage.py runserver
